@@ -1,4 +1,5 @@
 Store Sales Dashboard
+![Sales Dashboard](image_d27574.png)
 Project Overview
 This interactive dashboard provides a comprehensive analysis of retail sales performance from 2014 to 2017. It is designed to track key performance indicators (KPIs), identify top-performing customers and product categories, and visualize geographical sales distribution across the United States.
 Key Features & Visualizations
